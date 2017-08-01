@@ -20,32 +20,6 @@
           </profile>
         </annotationProcessing>
       </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Android</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Correctness</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Performance</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>Java language level migration aidsJava</id>
-              </State>
-            </expanded-state>
-          </profile-state>
-        </entry>
-      </component>
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -58,9 +32,11 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="true" assert-keyword="false" jdk-15="false" />
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="C:/Android/sdk" />
+        <property name="android.sdk.path" value="C:/AndroidSDK" />
         <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Application" factoryName="Application">
