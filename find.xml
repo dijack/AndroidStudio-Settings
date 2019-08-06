@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'AndroidExercise'" />
     <option name="defaultScopeName" value="Project 'AndroidExercise'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'AndroidExercise'" />
   </component>
 </application>
