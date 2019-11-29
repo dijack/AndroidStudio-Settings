@@ -18,6 +18,10 @@
           <option name="url" value="ssh://dijack.dong@review.cdc.hp.com:29418/HPDeviceHub.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mahesh517/DataController.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\donghai\AndroidStudioProjects" />
